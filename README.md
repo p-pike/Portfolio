@@ -11,6 +11,10 @@ To run a Jupyter Notebook you can use either:
 - Anaconda (recommended)
 - Colab
 
-You must ensure that the python packages are installed with the correct version. For this purpose you can run the first cell of each Notebook.
+You must ensure that the python packages are installed with the correct version. For this purpose you can run the first cell under importing librairies.
 
-**Note:** To avoid recomputing I have saved trained models in pickle files. But it is possible to redo the training, by setting the variable redo_training to true. 
+**Note:** To avoid recomputing I have saved trained models in pickle files. But it is possible to redo the training, by setting the variable redo_training to true (in global variables). 
+
+Dataset links:
+- https://www.kaggle.com/becksddf/churn-in-telecoms-dataset/ (churn_dataset)
+- https://www.kaggle.com/c/titanic/data (titanic_dataset)
