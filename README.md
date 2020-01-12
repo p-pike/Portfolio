@@ -1,6 +1,6 @@
 # Portfolio
 
-## What is in this Github repository ? 
+## What is in this repository ? 
 - Churn dataset analysis
 - Titanic dataset analysis
 - Movie reviews analysis
