@@ -15,7 +15,7 @@ You must ensure that the python packages are installed with the correct version.
 
 **Note:** To avoid recomputing I have saved trained models in pickle files. But it is possible to redo the training, by setting the variable redo_training to true (in _global variables_). 
 
-Dataset links:
+Datasets links:
 - https://www.kaggle.com/becksddf/churn-in-telecoms-dataset/ (churn_dataset)
 - https://www.kaggle.com/c/titanic/data (titanic_dataset)
 - http://ai.stanford.edu/~amaas/data/sentiment/ (movie_reviews_dataset)
