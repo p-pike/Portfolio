@@ -1,19 +1,19 @@
 # Portfolio
 
 ## What is in this repository ? 
-- Churn dataset analysis
-- Titanic dataset analysis
-- Movie reviews dataset analysis
+- Churn dataset analysis : predict if a customer is going to leave for a competitor.
+- Titanic dataset analysis : predict if a passenger has survived.
+- Movie reviews dataset analysis : predict if a review is positive or negative.
 
-The purpose of these analyses is to find the model that best fits our problematics. For the Titanic dataset we want to predict if a passenger has survived. For the churn dataset we want to predict if a customer is going to leave for a competitor. For the movie reviews analysis we want to predict if a review is positive or negative. These are classification problems.
+The purpose of these analyses is to find the model that best fits our problematics. These are classification problems.
 
 ## How to run ?
 To run a Jupyter Notebook you can use:
 - Anaconda: https://www.anaconda.com/distribution/ (download link)
 
-You must ensure that the python packages are installed with the correct version. For this purpose you can run the first cell in the importing librairies section.
+You must ensure that the python packages are installed with the correct version. For this purpose you can run the first cell in the _importing librairies_ section.
 
-**Note:** To avoid recomputing I have saved trained models in pickle files. But it is possible to redo the training, by setting the variable redo_training to true (in global variables). 
+**Note:** To avoid recomputing I have saved trained models in pickle files. But it is possible to redo the training, by setting the variable redo_training to true (in _global variables_). 
 
 Dataset links:
 - https://www.kaggle.com/becksddf/churn-in-telecoms-dataset/ (churn_dataset)
